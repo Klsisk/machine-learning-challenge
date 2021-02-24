@@ -17,6 +17,7 @@ The 3 models I chose to look at were the KNN (K Nearest Neighbor), SVC (Support 
 ### KNN
 
 ### SVC
+![image](https://user-images.githubusercontent.com/69765842/109026760-14b87a80-768e-11eb-9e09-f71159e11a10.png)
 
 ### Random Forest
 
