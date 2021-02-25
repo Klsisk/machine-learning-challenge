@@ -15,22 +15,22 @@
 The 3 models I chose to look at were the KNN (K Nearest Neighbor), SVC (Support Vector Machine), and Random Forest Classifier.  I used 'selected_features' to then train the models and did a GridSearch to hypertune the models.  Below are how each of the models performed:
 
 ### KNN
-** k = 9: Training Data Score: 0.8682052260156399  **      
-** k = 9: Testing Data Score: 0.8552631578947368 **
+* **k = 9: Training Data Score: 0.8682052260156399**      
+* **k = 9: Testing Data Score: 0.8552631578947368**
 
 ![image](https://user-images.githubusercontent.com/69765842/109102705-6e08c400-76f7-11eb-81d5-d057cced2f7b.png)
 
 ### SVC
-** Training Data Score: 0.8445546442876216 **      
-** Testing Data Score: 0.8506864988558352 **      
-** After Tuning: 0.8815571354761715 **
+* **Training Data Score: 0.8445546442876216**      
+* **Testing Data Score: 0.8506864988558352**      
+* **After Tuning: 0.8815571354761715**
 
 ![image](https://user-images.githubusercontent.com/69765842/109102777-942e6400-76f7-11eb-95fd-e4e99002aaf3.png)
 
 ### Random Forest
-** Training Data Score: 1.0 **  
-** Testing Data Score: 0.9004576659038902 **  
-** After Tuning: 0.8912817732627948 **
+* **Training Data Score: 1.0**  
+* **Testing Data Score: 0.9004576659038902**  
+* **After Tuning: 0.8912817732627948**
 
 ![image](https://user-images.githubusercontent.com/69765842/109102646-503b5f00-76f7-11eb-9974-f6b25e42216c.png)
 
